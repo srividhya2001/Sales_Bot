@@ -62,3 +62,25 @@ streamlit run main.py
 ```
 
 ---
+
+## Sample Questions to Try
+
+### Relevant Sales Queries
+- What are the top 5 most sold food items?
+- What is the total sales for takeaway orders?
+- How many dine-in orders were placed last month?
+- Which restaurant had the highest revenue on January 1st?
+- What is the average discount given per order type?
+
+### Greetings (Handled politely)
+- Hello
+- Good morning
+- How are you?
+
+### Irrelevant Questions (Fallback response)
+- What's the weather today?
+- Who is the president of the USA?
+
+---
+
+
